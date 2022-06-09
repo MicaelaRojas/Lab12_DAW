@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  text-align:center;
+  font-family: 'Dancing Script', cursive;
+  background-image: url(../duck.png);
+}
+
+
+.css-1xrtrg7-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+  color: #000 !important;
+}
